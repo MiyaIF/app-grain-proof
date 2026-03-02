@@ -6,7 +6,7 @@
 - アプリ側は個人情報を保持しない匿名運用
 
 ## 料金と機能
-- 月額680円、7日無料トライアル
+- 月額500円、7日無料トライアル
 - 有料: エクスポート（Markdown/JSON）
 - 無料: 記録・カレンダー・バックアップ
 
@@ -16,5 +16,8 @@
 - 署名タグ情報（SSH）
 
 ## リンク
-- GitHub Release: `<RELEASE_URL>`
-- アプリURL: `<APP_URL>`
+- GitHub Release: `https://github.com/MiyaIF/app-grain-proof/releases/tag/v0.1.0-subscription-launch`
+- アプリURL: 公開準備中
+
+## 著作権
+- 著作権: © 2026 Fiso

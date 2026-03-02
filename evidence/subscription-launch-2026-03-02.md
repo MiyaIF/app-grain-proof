@@ -3,14 +3,14 @@
 ## Scope
 - Paid feature boundary: Export (Markdown/JSON)
 - Free features: Record / Calendar / Backup
-- Price: JPY 680 monthly
+- Price: JPY 500 monthly
 - Trial: 7 days
 
 ## Technical Proof
-- private source commit SHA: `bf37631c9dad67b8b06cce22f90418d8f51f5ce2`
-- build artifact sha256 (`tar frontend/dist`): `c2a73aae0d0b0f35153c42f52d6c7b521e192c4b32b5e02ad11e8fbc4110dbd5`
-- built at (UTC): `2026-03-02T07:38:24Z`
-- built at (JST): `2026-03-02 16:38 JST`
+- private source commit SHA: `b3ad59ba978ba41e734934b24fdf76c3f80cec7d`
+- build artifact sha256 (`tar frontend/dist`): `4b504cdccf3b56ad21a108955ed1a3b31389a36274a7e986f86feb92013828b2`
+- built at (UTC): `2026-03-02T13:34:42Z`
+- built at (JST): `2026-03-02 22:34 JST`
 - proof command: `./scripts/collect_proof.sh`
 
 ## Notes

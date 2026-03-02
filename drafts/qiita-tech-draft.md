@@ -19,5 +19,8 @@
 5. Webhook重複イベントを `webhook_events` で無害化
 
 ## 参考リンク
-- GitHub Release: `<RELEASE_URL>`
-- デモURL: `<APP_URL>`
+- GitHub Release: `https://github.com/MiyaIF/app-grain-proof/releases/tag/v0.1.0-subscription-launch`
+- デモURL: 公開準備中
+
+## 著作権
+- 著作権: © 2026 Fiso
