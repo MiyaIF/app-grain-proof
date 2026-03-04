@@ -10,4 +10,5 @@
 ## 参照
 - source repository: https://github.com/MiyaIF/app-grain
 - evidence file: `evidence/subscription-launch-2026-03-02.md`
+- stripe production runbook: `evidence/stripe-production-enable-runbook-2026-03-02.md`
 - release draft: `releases/v0.1.0-subscription-launch.md`
